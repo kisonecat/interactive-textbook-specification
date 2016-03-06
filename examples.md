@@ -82,3 +82,15 @@ No publicly available examples
 ## Sage Cell server
 
 <https://github.com/sagemath/sagecell/blob/master/doc/web_service.rst>
+
+
+## IMathAS
+
+* basis for free online homework aligned with open textbooks: <http://MyOpenMath.com>
+
+
+## IMS-QT
+
+* a well-established (albeit somewhat annoying) XML format for assessment items
+* pretty cumbersome and massive, so might be overkill
+* <https://www.imsglobal.org/question/index.html>
